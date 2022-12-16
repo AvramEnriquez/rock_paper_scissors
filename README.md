@@ -5,3 +5,7 @@ Partially created with the help of Kylie Ying's rock, paper, scissors tutorial f
 
 This is my second code published publicly to GitHub. I hope giving credit in the readme file is enough.
 
+Personal implementations:
+- getpass module/function to hide input
+- Equaling Rock/Paper/Scissors with 1/2/3 to better hide input from others
+- Cleanup for tidier output
